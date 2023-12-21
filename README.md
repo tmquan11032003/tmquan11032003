@@ -6,7 +6,7 @@
 </p>
 
 **I'm a data analytics. I enjoy exploring data to get insights and create an impactful story out of it.**
-### :mailbox: Reach me out!
+## 📫 Contact me via:
 <p align="center">
   <a href="www.linkedin.com/in/tmquan110303" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -24,8 +24,8 @@
 
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with other data nerds
-- 🥅 2021 Goals: Contribute more to open source projects
-- ⚡ Fun fact: Apart from digging the data; I love to explore physics & philosophy
+- 🥅 2024 Goals: Contribute more to open source projects
+- ⚡ Fun fact: In addition to data mining; I love exploring art, alien, universe 
 
 ### 👨🏽‍💻 Top Technologies
 
@@ -79,9 +79,9 @@
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmquan11032003&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | ![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmquan11032003&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=Udit's%20GitHub%20Stats) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-## 📫 Contact me via:
 
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tmquan110303)
+
+
 
 
 
