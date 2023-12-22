@@ -1,4 +1,4 @@
-### Hi there, I'm Quan 👋 
+### Hi there, I'm Minh Quan 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 
 <p align="center"> 
@@ -79,6 +79,17 @@
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmquan11032003&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | ![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmquan11032003&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=Udit's%20GitHub%20Stats) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
+### 🎗️: Certificates
+
+- [![365DataScience](https://img.shields.io/badge/-365DataScience-black) Building Business Reports Using Power BI](https://learn.365datascience.com/c/6de4361a47)
+- [![365DataScience](https://img.shields.io/badge/-365DataScience-black) Introduction to DAX](https://learn.365datascience.com/c/9e0e700da9)
+- [![365DataScience](https://img.shields.io/badge/-365DataScience-black) Power BI](https://learn.365datascience.com/c/72149cffcd)
+- [![365DataScience](https://img.shields.io/badge/-365DataScience-black) Power Query and Data Modeling](https://learn.365datascience.com/c/54e728dbe5)
+- [![Dataquest.io](https://img.shields.io/badge/-Dataquest.io-purple) SQL Fundamentals Path](https://app.dataquest.io/view_cert/0LFUAIKZ8RVHHA55CFFR)
+- [![Dataquest.io](https://img.shields.io/badge/-Dataquest.io-purple) Python Basics for Data Analysis Path](https://app.dataquest.io/view_cert/QCCN9LKS0L67GRJGCD7D)
+- [![Dataquest.io](https://img.shields.io/badge/-Dataquest.io-purple) Introduction to Data Analysis with Excel Path](https://app.dataquest.io/view_cert/6S9SNXM8D6WJDKKMGYN0)
+- [![Microsoft](https://img.shields.io/badge/-Microsoft-blue) Microsoft Excel](https://www.certiport.com/Portal/DesktopDefault.aspx?roleid=1)
+- [![Microsoft](https://img.shields.io/badge/-Microsoft-blue) Microsoft Word](https://www.certiport.com/Portal/DesktopDefault.aspx?roleid=1)
 
 
 
