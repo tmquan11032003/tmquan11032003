@@ -8,7 +8,7 @@
 **I'm a data analytics. I enjoy exploring data to get insights and create an impactful story out of it.**
 ## 📫 Contact me via:
 <p align="center">
-  <a href="www.linkedin.com/in/tmquan110303" target="_blank">
+  <a href="https://www.linkedin.com/in/tmquan110303/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/BinXoai" alt="Facebook">
