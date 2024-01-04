@@ -90,6 +90,9 @@
 - [![Dataquest.io](https://img.shields.io/badge/-Dataquest.io-purple) Introduction to Data Analysis with Excel Path](https://app.dataquest.io/view_cert/6S9SNXM8D6WJDKKMGYN0)
 - [![Microsoft](https://img.shields.io/badge/-Microsoft-blue) Microsoft Excel](https://www.certiport.com/Portal/DesktopDefault.aspx?roleid=1)
 - [![Microsoft](https://img.shields.io/badge/-Microsoft-blue) Microsoft Word](https://www.certiport.com/Portal/DesktopDefault.aspx?roleid=1)
+- [![HackerRank](https://img.shields.io/badge/-HackerRank-green) SQL (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/7b43207c710d)
+- [![HackerRank](https://img.shields.io/badge/-HackerRank-green) SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/iframe/39746b694a64)
+
 
 
 
